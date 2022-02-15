@@ -1,0 +1,15 @@
+com\cognizant\feignclient\MutualFundDetailsClient.class
+com\cognizant\model\StockDetails.class
+com\cognizant\service\CalculateNetworth.class
+com\cognizant\NetworthCalculationApplication.class
+com\cognizant\repository\PortfolioRepository.class
+com\cognizant\feignclient\AuthClient.class
+com\cognizant\feignclient\CalculateNetworthClient.class
+com\cognizant\repository\AssetRepository.class
+com\cognizant\model\MutualFundDetails.class
+com\cognizant\controller\NetworthController.class
+com\cognizant\exception\SellCountException.class
+com\cognizant\model\PortfolioDetails.class
+com\cognizant\model\AssetDetails.class
+com\cognizant\feignclient\StockDetailsClient.class
+com\cognizant\model\SellAssetDetails.class
